@@ -1,0 +1,52 @@
+{
+  "zh": {
+"language": "中文",
+"help": "输入帮助信息",
+"about": "这是一个多语言计算器"
+  },
+  "tw": {
+"language": "繁体中文",
+"help": "请输入帮助信息",
+"about": "這是一个多语言计算器"
+  },
+  "en": {
+"language": "English",
+"help": "Enter help message",
+"about": "This is a multilingual calculator"
+  },
+  "fr": {
+"language": "法语",
+"help": "Entrez aide message",
+"about": "Ceci est un calculeur multilingue"
+  },
+  "ja": {
+"language": "日语",
+"help": "帮助を入力してください",
+"about": "これは多言語计算器です"
+  },
+  "ko": {
+"language": "韩语",
+"help": "도움말을输入",
+"about": "이것은一个多语言计算器입니다"
+  },
+  "vi": {
+"language": "越南语",
+"help": " Nhập tin nhắn trợ giúp",
+"about": "Đây là một calculeur multilingue"
+  },
+  "re": {
+"language": "颠倒英语",
+"help": "Enter reverse English message",
+"about": "This is a multilingual calculator"
+  },
+  "de": {
+"language": "德语",
+"help": "Geben Sie die Hilfe-Nachricht ein",
+"about": "Dies ist ein multilinguales Calculator"
+  },
+  "ru": {
+"language": "俄语",
+"help": "Введите сообщение помощи",
+"about": "Это一个多语言计算器"
+  }
+}
